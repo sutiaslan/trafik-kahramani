@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Trafik Kahramani",
-    "slug": "trafik-kahramani",
+    "name": "Akilli Cocuk",
+    "slug": "akilli-cocuk",
     "version": "1.0.0",
     "orientation": "portrait",
     "userInterfaceStyle": "dark",
@@ -11,7 +11,7 @@
       "resizeMode": "contain"
     },
     "android": {
-      "package": "com.trafikkahramani.app",
+      "package": "com.akillococuk.app",
       "versionCode": 1,
       "permissions": [],
       "backgroundColor": "#1a1a2e"
